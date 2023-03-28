@@ -2,11 +2,11 @@ title: Sebastian Bahr # your name (or website title) here
 logo: "/images/Sebastian Bahr Foto.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Ph.D. Student in Sociology and Data Scientis with 2 years of commercial experience in a start-up.
+  <br><br>
   In my Ph.D. I'm interested in examining the social drivers behinde phenomenas as long-term poverty, environmental behaviour and homicides. To answer my research questions I'm using time-series analysis and machine learning applications. 
   As a Data Scientist I am responsible for business analytics, user-segmentation analysis with unsupervised ML, and building a recommender system.   
   <br><br>
-  Second description 
-  <br><br>
+
   <a href="https://www.linkedin.com/in/sebastian-bahr-61b58b197/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
