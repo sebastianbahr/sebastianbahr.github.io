@@ -7,7 +7,7 @@
 The package is an extension of the 'glmnet' package for regularized generalized linear models and adds nonparametric bootstrap standard errors (SE) for pre-selected coefficients with no regularization applied to them. This extension enables researchers to apply L2 or L1 regularization on confounding variables but get an unregularized estimation of the exogenous variable with SEs.
 
 [View glmnetSE on Github]([/sample_page](https://github.com/sebastianbahr/glmnetSE))
-(https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
+[![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
