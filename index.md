@@ -2,7 +2,7 @@
 
 ---
 
-### glmnetSE an R package that adds standard errors to the 'glmnet' package
+### glmnetSE an R package that adds standard errors to the *glmnet* package
 
 The package is an extension of the 'glmnet' package for regularized generalized linear models and adds nonparametric bootstrap standard errors (SE) for pre-selected coefficients with no regularization applied to them. This extension enables researchers to apply L2 or L1 regularization on confounding variables but get an unregularized estimation of the exogenous variable with SEs.
 
