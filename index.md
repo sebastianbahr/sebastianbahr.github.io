@@ -8,6 +8,7 @@ The package is an extension of the 'glmnet' package for regularized generalized 
 
 
 [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
+
 [View glmnetSE on Github](https://github.com/sebastianbahr/glmnetSE)
 
 
