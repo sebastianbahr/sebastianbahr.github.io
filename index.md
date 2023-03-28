@@ -1,10 +1,13 @@
-## Portfolio
+## Selected porjects in data science and machine learning
 
 ---
 
-### Category Name 1 
+### glmnetSE an R package that adds standard errors to the 'glmnet' package
 
-[Project 1 Title](/sample_page)
+The package is an extension of the 'glmnet' package for regularized generalized linear models and adds nonparametric bootstrap standard errors (SE) for pre-selected coefficients with no regularization applied to them. This extension enables researchers to apply L2 or L1 regularization on confounding variables but get an unregularized estimation of the exogenous variable with SEs.
+
+[View glmnetSE on Github]([/sample_page](https://github.com/sebastianbahr/glmnetSE))
+(https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -29,7 +32,3 @@
 
 
 
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
