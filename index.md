@@ -30,7 +30,7 @@ I contributed to a research project of another research group of the Institute o
 ---
 
 ### Using machine learning models to predict the proportion of income household's are spending on energy bills
-The energy prices increased strongly in 2022 e.g. electricity costs rose by 12% between 2020 and 2022 (US Energy Information Administration 2022). The increased energy prices put many US households under financial pressure. Based on the US Census 2021 subset in California several machine learning models are build to predict the proportion of household income spend on energy bills. Households with a higher proportion are prone of get into financial hardhship due to rising energy costs. The prediction is based on socio-demographic information on the household, the income and some houseing chracteristics. This project was part of the Machine Learning for Social Sciences class I thought in spring 2023.
+The energy prices increased strongly in 2022 e.g. electricity costs rose by 12% between 2020 and 2022 (US Energy Information Administration 2022). The increased energy prices put many US households under financial pressure. Based on the US Census 2021 subset in California several machine learning models are build to predict the proportion of household's income spend on energy bills. Households with a higher proportion are prone of getting into financial hardhship due to rising energy costs. The prediction is based on socio-demographic information, the income, and some houseing chracteristics. This project was part of the Machine Learning for Social Sciences class I thaught in spring 2023.
 
 [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
 [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#)
