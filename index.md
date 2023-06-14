@@ -4,7 +4,8 @@
 
 ### glmnetSE an R package that adds standard errors to the *glmnet* package
 
-The package is an extension of the *glmnet* package for regularized generalized linear models and adds nonparametric bootstrap standard errors (SE) for pre-selected coefficients with no regularization applied to them. This extension enables researchers to apply L2 or L1 regularization on confounding variables but get an unregularized estimation of the exogenous variable with SEs.
+Regularization models like lasso and ridge regression apply a penalty to the loss function in order to reduce overfitting on the data. If two coefficients are highly correlated the L1 norm applied by lasso tends to drop one of the variables. However, the L2 norm applied by ridge, tends to make all coefficients as small as possible. For statistical analysis in the social sciences this can be undesirable, since the researcher is interested in the unbiased effect of X on Y and the applied penalty can increase the bias. Nevertheless some analysis with a small sample size or explorative analysis with a large set of control variables could profit if the coefficients of the control variables are regularized but not the estimated effect of X to Y. The package is an extension of the famous *glmnet* package and allows to select specific coefficients for which no regularization is applied. Further it calculates nonparametric bootstrap standard errors for these coefficients.
+(over 4,000 downloads)
 
 
 [![](https://img.shields.io/badge/R%20Studio-white?logo=RStudio&logoColor=blue)](#)
