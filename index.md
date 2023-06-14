@@ -42,6 +42,15 @@ The energy prices increased strongly in 2022 e.g. electricity costs rose by 12% 
 
 ---
 
+## Scientific publications
+
+### Poverty in Europe: How long-term poverty developed after the financial crisis and what drives it
+The purpose of this paper is to provide an update on the development of the long-term relative poverty rate in Europe. We use European Statistics on Income and Living Conditions data (EU-SILC) for 26 European countries between 2009 and 2018. In addition to describing the development of long-term poverty, we also analyse the drivers of poverty on the country level via fixed effects panel regression analysis. We are particularly interested in how economic growth, employment rates, social expenditure, and short-term poverty rates are related to long-term poverty. Overall, the results show that long-term poverty has increased in 13 out of 26 countries, but was unchanged or decreased in 13 countries. Gross domestic product growth is not related to the development of long-term poverty. However, we find that male employment and social welfare expenditure reduce poverty rates. Furthermore, short-term poverty is negatively associated with long-term poverty. Hence, short-term poverty and long-term poverty rather substitute than complement each other.
+
+[![](https://img.shields.io/badge/R%20Studio-white?logo=RStudio&logoColor=blue)](#) 
+
+[Full text available](https://onlinelibrary.wiley.com/doi/full/10.1111/ijsw.12614)
+
 
 
 
