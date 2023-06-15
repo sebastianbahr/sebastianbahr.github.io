@@ -48,7 +48,7 @@ The energy prices increased strongly in 2022 e.g. electricity costs rose by 12% 
 The financial crisis and COVID-19 were two major incidents that affected Europe's economy and its people. Increased unemployment and poverty are only a few of the negative side effects of these incidents. It is therefore more important than ever to analyse the development of poverty and especially long-term poverty in Europe. The paper provides an update on the development of the long-term relative poverty rate in Europe for 26 European countries between 2009 and 2018. In addition to describing the development of long-term poverty, sophisticated longitudinal and panel data regression models are used to investigate the drivers of long-term poverty. Overall, the results show that long-term poverty has increased in 13 out of 26 countries, but was unchanged or decreased in 13 countries. Gross domestic product growth is not related to the development of long-term poverty. However, we find that male employment and social welfare expenditure reduce poverty rates. Furthermore, short-term poverty is negatively associated with long-term poverty. Hence, short-term poverty and long-term poverty rather substitute than complement each other.
 
 [![](https://img.shields.io/badge/R%20Studio-white?logo=RStudio&logoColor=blue)](#) 
-[![](https://img.shields.io/badge/published-International%20Journal%20of%20Social%20Welfare-lightgrey)](#)
+[![](https://img.shields.io/badge/published-International%20Journal%20of%20Social%20Welfare-lightgrey?labelColor=white)](#)
 
 [Full text available](https://onlinelibrary.wiley.com/doi/full/10.1111/ijsw.12614)
 
