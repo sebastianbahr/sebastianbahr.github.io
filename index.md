@@ -31,7 +31,7 @@ Regularization models like lasso and ridge regression apply a penalty to the los
 
 ---
 
-### Using machine learning models to predict the proportion of income household's are spending on energy bills
+### Using machine learning models to predict the proportion of income households are spending on energy bills
 The energy prices increased strongly in 2022 e.g. electricity costs rose by 12% between 2020 and 2022 (US Energy Information Administration 2022). The increased energy prices put many US households under financial pressure. Based on the US Census 2021 subset in California several machine learning models (linear regression, support vector machine, random forest, and extreme gradient boost) are trained. Their aim is to predict the proportion of household income spend on energy bills, without knowing the expences for energy. This is relevant, as households with a higher proportion are prone of getting into financial hardhship due to rising energy costs. Identifying these households gives the government the opportunity to efficiently direct support to these very households. The models use socio-demographic information, the income, and some houseing chracteristics for the prediction.
 
 
