@@ -26,7 +26,8 @@ The energy prices increased strongly in 2022 e.g. electricity costs rose by 12% 
 
 [View code on Collab](test)
 
-<img src="images/california_map.png?raw=true" width=350 height=380/>
+#### Figure 1: Expenses on energy bills in % of household income in California (ground truth)
+<img src="images/california_map.png?raw=true" width=500 height=540/>
 
 ---
 
