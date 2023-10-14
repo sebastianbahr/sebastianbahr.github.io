@@ -7,7 +7,7 @@
 Regularization models like lasso and ridge regression apply a penalty to the loss function in order to reduce overfitting on the data. If two coefficients are highly correlated the L1 norm applied by lasso tends to drop one of the variables. However, the L2 norm applied by ridge, tends to make all coefficients as small as possible. For statistical analysis in the social sciences this can be undesirable, since the researcher is interested in the unbiased effect of X on Y and the applied penalty can increase the bias. Nevertheless some analysis with a small sample size or explorative analysis with a large set of control variables could profit if the coefficients of the control variables are regularized but not the estimated effect of X to Y. The package is an extension of the famous *glmnet* package and allows to select specific coefficients for which no regularization is applied. Further it calculates nonparametric bootstrap standard errors for these coefficients.
 
 
-[![](https://img.shields.io/badge/R%20Studio-white?logo=RStudio&logoColor=blue)](#)      (over 4,000 downloads)
+[![](https://img.shields.io/badge/R%20Studio-white?logo=RStudio&logoColor=blue)](#)      (over 4,700 downloads)
 
 [View glmnetSE on Github](https://github.com/sebastianbahr/glmnetSE)
 
@@ -26,7 +26,7 @@ The energy prices increased strongly in 2022 e.g. electricity costs rose by 12% 
 
 [View code on Collab](test)
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/california_map.png?raw=true" width=350 height=380/>
 
 ---
 
