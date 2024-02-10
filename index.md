@@ -24,7 +24,7 @@
 For cafes that value good coffee but don’t want to spend much time looking for new roasters or coffee blends, I developed an easy-to-use search web application that recommends coffee blends based on their flavor, roasting degree, region of origin, and pricing. The user can conveniently get recommendations based on their open-text input in a chatbot-like style. The suggestions are based on a Retrieval Augmented Generation (RAG) approach in combination with hybrid search. The recommender uses services from Pinecone, OpenAI, and VertexAI. The web application is powered by Plotly Dash and deployed with Render.
 
 #### Web application interface
-<img src="images/inference_CV1.png?raw=true"/>
+<img src="images/CoffeeWiki_screenshot.png?raw=true" width=auto height=400/>
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#)
 [![](https://img.shields.io/badge/VertexAI-white?logo=googlebard)](#)
