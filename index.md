@@ -112,7 +112,7 @@ The environmental concern of a country’s population is an important prerequisi
 ---
 ---
 
-## Teaching experience
+## Teaching experience as lecturer at University of Bern
 
 ### Autum semester 2023: Machine Learning and Artificial Neural Networks
 Topics:
