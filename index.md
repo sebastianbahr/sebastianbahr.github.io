@@ -49,10 +49,10 @@ The energy prices increased strongly in 2022 e.g. electricity costs rose by 12% 
 [View code on Collab](test)
 
 #### Figure 1: Expenses on energy bills in % of household income in California (ground truth)
-<img src="images/california_map.png?raw=true" width=500 height=540/>
+<img src="images/california_map.png?raw=true" width=auto height=400/>
 
 #### Figure 2: Predicted expenses vs. true expenses
-<img src="images/california_map.png?raw=true" width=500 height=540/>
+<img src="images/prediction.png?raw=true" width=auto height=400/>
 
 ---
 
@@ -71,10 +71,10 @@ Regularization models like lasso and ridge regression apply a penalty to the los
 ### The Relationship Between Urban Greenery, Mixed Land Use and Life Satisfaction: An Examination Using Remote Sensing Data and Deep Learning (under review)
 Most Europeans reside in urban areas. Due to anthropogenic air and noise pollution, as well as crowdedness, urban residents experience lower levels of well-being and life satisfaction. Recent studies show that the quality of green spaces is crucial when it comes to the relationship between urban greenery and life satisfaction. However, many previous studies did not consider the quality of urban green spaces. Some measure it using survey data, which can be expensive to obtain, resulting in a small study area and being prone to survey biases. This study utilizes a novel deep-learning approach in conjunction with high-resolution satellite imagery and land use data. This allows for an unbiased measurement of the quantity and quality of green spaces in an entire country. In addition, the study sheds light on the indeterminate relationship between mixed urban land use and life satisfaction. The analysis shows that quality is important, and, that for individuals aged 33 and over, only trees and grass in parks and gardens are positively linked to life satisfaction. In contrast, the positive association between mixed land use and life satisfaction decreases with age and is non-existent for individuals aged 50 and over. The differences in age groups’ effects can be explained by varying preferences at different ages. This information is valuable for future city planning, particularly in Switzerland, where comprehensive evidence is lacking.
 ### Figure 1: Directed acyclic graph (DAG) of the relationships between grass subcategories and life satisfaction
-<img src="images/Figure_1.jpeg?raw=true"/>
+<img src="images/Meadows_DAG.png?raw=true" width=auto height=400/>
 
 ### Figure 2: Predicted life satisfaction value based on the interaction effect of mixed land use and age
-<img src="images/Figure_1.jpeg?raw=true"/>
+<img src="images/entropy_630_PDP.png?raw=true" width=auto height=400/>
 
 [![](https://img.shields.io/badge/R%20Studio-white?logo=RStudio&logoColor=blue)](#) 
 [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
@@ -88,7 +88,7 @@ Most Europeans reside in urban areas. Due to anthropogenic air and noise polluti
 ### Poverty in Europe: How long-term poverty developed after the financial crisis and what drives it
 The financial crisis and COVID-19 were two major incidents that affected Europe's economy and its people. Increased unemployment and poverty are only a few of the negative side effects of these incidents. It is therefore more important than ever to analyse the development of poverty and especially long-term poverty in Europe. The paper provides an update on the development of the long-term relative poverty rate in Europe for 26 European countries between 2009 and 2018. In addition to describing the development of long-term poverty, sophisticated longitudinal and panel data regression models are used to investigate the drivers of long-term poverty. Overall, the results show that long-term poverty has increased in 13 out of 26 countries, but was unchanged or decreased in 13 countries. Gross domestic product growth is not related to the development of long-term poverty. However, we find that male employment and social welfare expenditure reduce poverty rates. Furthermore, short-term poverty is negatively associated with long-term poverty. Hence, short-term poverty and long-term poverty rather substitute than complement each other.
 #### Figure 1: The proportion of the population in poverty by duration in the period 2015–2018 
-<img src="images/Figure_1.jpeg?raw=true"/>
+<img src="images/Figure_1.jpeg?raw=true" width=auto height=400/>
 
 [![](https://img.shields.io/badge/R%20Studio-white?logo=RStudio&logoColor=blue)](#) 
 [![](https://img.shields.io/badge/published-International%20Journal%20of%20Social%20Welfare-lightgrey?labelColor=white)](#)
@@ -99,10 +99,10 @@ The financial crisis and COVID-19 were two major incidents that affected Europe'
 ### The development of global environmental concern during the last three decades (under review)
 The environmental concern of a country’s population is an important prerequisite for fighting environmental problems, foremost reducing CO2 emissions, and limiting global warming. In this paper, we analyze the development of environmental concern by using the newest wave of the environmental module of the International Social Survey Programme (ISSP) for 29 countries. First, we discuss the measurement of environmental concern and construct a ranking of countries according to the new 2020 results. Second, we analyze the determinants of environmental concern by employing multilevel models that take individual as well as context effects into account. The results show that environmental concern has increased in almost all nations since the last measurement in 2010. At the individual level, environmental concern is closely related to education, post-materialistic values, political attitudes, and the trust of individuals in the news media and science. At the country level, environmental concern depends on the wealth of nations
 #### Figure 1: CO2 emissions and environmental concern
-<img src="images/Figure_1.jpeg?raw=true"/>
+<img src="images/environmental_concern_oecd_trend.jpg?raw=true" width=auto height=400/>
 
 #### Figure 2: Bivariate correlation between GDP and environmental concern
-<img src="images/Figure_1.jpeg?raw=true"/>
+<img src="images/environmental_concerns_gdp_labels.png?raw=true" width=auto height=400/>
 
 [![](https://img.shields.io/badge/R%20Studio-white?logo=RStudio&logoColor=blue)](#) 
 
