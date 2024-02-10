@@ -128,7 +128,7 @@ Topics:
 [![](https://img.shields.io/badge/Keras-red?logo=Keras)](#)
    
 
-### Spring semester 2023: Machine Learnign for Social Sciences
+### Spring semester 2023: Machine Learning for Social Sciences
 Topics:
 * Ordinary Least Squares (OLS) regession
 * Fitting, predicting, and optimization
@@ -154,6 +154,7 @@ Topics:
 * Multilevel regession
 * Panel regression
 * Model diagnostic
+  
 [![](https://img.shields.io/badge/STATA-white?logo=STATA&logoColor=blue)](#)
 [![](https://img.shields.io/badge/R%20Studio-white?logo=RStudio&logoColor=blue)](#) 
 
