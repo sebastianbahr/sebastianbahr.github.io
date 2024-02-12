@@ -97,7 +97,7 @@ The financial crisis and COVID-19 were two major incidents that affected Europe'
 [Full text available](https://onlinelibrary.wiley.com/doi/full/10.1111/ijsw.12614)
 
 ##### Figure 1: The proportion of the population in poverty by duration in the period 2015–2018 
-<img src="images/Figure_1.jpeg?raw=true" width=auto height=400/>
+<img src="images/Figure_1.jpeg?raw=true" width=auto height=300/>
 
 ---
 
