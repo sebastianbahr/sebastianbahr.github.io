@@ -1,7 +1,7 @@
 # Overview
-* [Data science and ML projects](#Selected-projects-in-data-science-and-machine-learning)
-* [Scientific publications](#Scientific-publications)
-* [Teaching experience as lecturer](#Teaching-experience-as-lecturer-at-University-of-Bern)
+* [Data science and ML projects](#selected-projects-in-data-science-and-machine-learning)
+* [Scientific publications](#scientific-publications)
+* [Teaching experience as lecturer](#teaching-experience-as-lecturer-at-university-of-bern)
 
 ---
 ---
