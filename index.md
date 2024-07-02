@@ -137,9 +137,9 @@ The environmental concern of a country's population is an important prerequisite
 <img src="images/trend_ISSP.jpg?raw=true" width=auto height=400/>
 
 ##### Figure 2: Country ranking according to environmental concern 2020
-<img src="images/raking_ISSP.jpg?raw=true" width=auto height=400/>
+<img src="images/ranking_ISSP.jpg?raw=true" width=auto height=300/>
 
-
+[Full text available](https://doi.org/10.1016/j.crsust.2024.100260)
 
 ---
 ---
