@@ -132,11 +132,11 @@ The environmental concern of a country's population is an important prerequisite
 
 [![](https://img.shields.io/badge/R%20Studio-white?logo=RStudio&logoColor=blue)](#) 
 
-##### Figure 1: CO2 emissions and environmental concern
-<img src="images/environmental_concern_oecd_trend.jpg?raw=true" width=auto height=400/>
+##### Figure 1: CO2 emissions, Living Planet Index, and environmental concern
+<img src="images/trend_ISSP.jpg?raw=true" width=auto height=400/>
 
-##### Figure 2: Bivariate correlation between GDP and environmental concern
-<img src="images/environmental_concerns_gdp_labels.png?raw=true" width=auto height=400/>
+##### Figure 2: Country ranking according to environmental concern 2020
+<img src="images/raking_ISSP.png?raw=true" width=auto height=400/>
 
 
 
