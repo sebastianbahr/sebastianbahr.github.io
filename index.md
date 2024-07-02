@@ -118,7 +118,7 @@ Most Europeans reside in urban areas. Due to anthropogenic air and noise polluti
 The financial crisis and COVID-19 were two major incidents that affected Europe's economy and its people. Increased unemployment and poverty are only a few of the negative side effects of these incidents. It is therefore more important than ever to analyse the development of poverty and especially long-term poverty in Europe. The paper provides an update on the development of the long-term relative poverty rate in Europe for 26 European countries between 2009 and 2018. In addition to describing the development of long-term poverty, sophisticated longitudinal and panel data regression models are used to investigate the drivers of long-term poverty. Overall, the results show that long-term poverty has increased in 13 out of 26 countries, but was unchanged or decreased in 13 countries. Gross domestic product growth is not related to the development of long-term poverty. However, we find that male employment and social welfare expenditure reduce poverty rates. Furthermore, short-term poverty is negatively associated with long-term poverty. Hence, short-term poverty and long-term poverty rather substitute than complement each other.
 
 [![](https://img.shields.io/badge/R%20Studio-white?logo=RStudio&logoColor=blue)](#) 
-[![](https://img.shields.io/badge/published-Current%20Research%20in%20Environmental%20Sustainability-lightgrey?labelColor=white)](#)
+[![](https://img.shields.io/badge/published-International%20Journal%20of%20Social%20Research-lightgrey?labelColor=white)](#)
 
 [Full text available](https://onlinelibrary.wiley.com/doi/full/10.1111/ijsw.12614)
 
@@ -131,12 +131,13 @@ The financial crisis and COVID-19 were two major incidents that affected Europe'
 The environmental concern of a country's population is an important prerequisite for addressing environmental problems, foremost reducing CO2 emissions and limiting global warming. In this paper, we analyze the development of environmental concern by using the newest wave of the environmental module of the International Social Survey Programme (ISSP) for 29 countries. First, we discuss the measurement of environmental concern and construct a ranking of countries according to the 2020 survey results. Second, we analyze the determinants of environmental concern by employing multilevel models that take individual effects as well as context effects into account. The results show that environmental concern has increased in almost all nations since the last measurement in 2010. The country ranking is headed by European nations such as Switzerland, France and Germany. The USA takes a middle position and China ranks number 20. We observe more variance within countries at the individual level as compared to the differences between countries. At the individual level, environmental concern is closely related to education, post-materialistic values, political attitudes, and individuals' trust in the news media and in science. At the country level, the average environmental concern increases with the wealth of nations.
 
 [![](https://img.shields.io/badge/R%20Studio-white?logo=RStudio&logoColor=blue)](#) 
+[![](https://img.shields.io/badge/published-Current%20Research%20in%20Environmental%20Sustainability-lightgrey?labelColor=white)](#)
 
 ##### Figure 1: CO2 emissions, Living Planet Index, and environmental concern
 <img src="images/trend_ISSP.jpg?raw=true" width=auto height=400/>
 
 ##### Figure 2: Country ranking according to environmental concern 2020
-<img src="images/raking_ISSP.png?raw=true" width=auto height=400/>
+<img src="images/raking_ISSP.jpg?raw=true" width=auto height=400/>
 
 
 
