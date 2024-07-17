@@ -123,7 +123,7 @@ The financial crisis and COVID-19 were two major incidents that affected Europe'
 [Full text available](https://onlinelibrary.wiley.com/doi/full/10.1111/ijsw.12614)
 
 ##### Figure 1: The proportion of the population in poverty by duration in the period 2015–2018 
-<img src="images/Figure_1.jpeg?raw=true" width=auto height=300/>
+<img src="images/Figure_1.jpeg?raw=true" width=auto height=270/>
 
 ---
 
@@ -137,7 +137,7 @@ The environmental concern of a country's population is an important prerequisite
 <img src="images/trend_ISSP.jpg?raw=true" width=auto height=400/>
 
 ##### Figure 2: Country ranking according to environmental concern 2020
-<img src="images/ranking_ISSP.jpg?raw=true" width=auto height=300/>
+<img src="images/ranking_ISSP.jpg?raw=true" width=auto height=270/>
 
 [Full text available](https://doi.org/10.1016/j.crsust.2024.100260)
 
