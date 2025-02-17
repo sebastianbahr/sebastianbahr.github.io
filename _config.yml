@@ -1,12 +1,11 @@
 title: Ph.D. Sebastian Bahr # your name (or website title) here
-logo: "/images/Sebastian Bahr Foto.jpeg?raw=true" # your photo (or logo) here
+logo: "/images/profile_image.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Ph.D. in Sociology and research data analyst at LCP Delta.
   <br><br>
   Passionate about Computational Social Science and applying machine learning to this domain. I'm interested in using remote sensing data to explain and tackle social issues.
-  Further, I use various statistical methods as time-series analysis in combination with different types of data to examine social phenomenas such as e.g. poverty and environmental concern.
-  As a data analyst / scientist I'm responsible for business analytics, communicating findings to internal and external stakeholders, user-segmentation analysis with unsupervised ML, and the
-  development of a recommender engine and features like a chatbot and a content enhancer using LLMs and prompt engineering.
+  Further, I use various statistical methods such as time-series analysis in combination with different types of data to examine social phenomena such as poverty, environmental concern, and life satisfaction.
+  As a research data analyst at LCP Delta, I'm responsible for building high-quality data deliverables by using primary and secondary data sources. This enables the service teams to provide precious information regarding regulations and the market potential of selected energy-related technologies to clients.
   <br><br>
 
   <a href="https://www.linkedin.com/in/sebastianbahr/">View My LinkedIn Profile</a> 
