@@ -109,8 +109,8 @@ Most Europeans reside in urban areas. Due to anthropogenic air and noise polluti
 [View on GitHub](https://github.com/sebastianbahr/urban-environment-CH)
 [Full text available](https://doi.org/10.1016/j.landurbplan.2024.105174)
 
-##### Figure 1: Directed acyclic graph (DAG) of the relationships between grass subcategories and life satisfaction
-<img src="images/visual_abstract.png?raw=true" width=auto height=270/>
+##### Figure 1: Visual abstract
+<img src="images/visual_abstract.png?raw=true" width=auto height=350/>
 
 ##### Figure 2: Predicted life satisfaction value based on the interaction effect of mixed land use and age
 <img src="images/entropy_630_PDP.png?raw=true" width=auto height=400/>
